@@ -38,9 +38,19 @@ Ini jika menggunakan kurung kurawal
 
 ![7](https://github.com/user-attachments/assets/094e9e38-14c6-498f-a270-5f3277a447f9)
 
-Latuhan 2
+Latihan 2
 
 langkah awal kita masukkan/input nilai untuk menghitung, kita masukkan angka di variable a & b
+
+![10 1](https://github.com/user-attachments/assets/a2dded08-f1d7-4b19-a119-e4ce5c6e2f4a)
+
+lalu bikin logika kode pemrograman 
+
+![10 2](https://github.com/user-attachments/assets/a7ae1dd0-1faa-4114-ba0f-d7b34647f5e3)
+
+maka hasil dari kode pemrograman ialah:
+
+![10](https://github.com/user-attachments/assets/b9b07180-064c-4ee0-a317-95a067f64fb8)
 
 Latihan 3
 
@@ -58,6 +68,20 @@ dan terakhir kita uji apakah benar? saya memasukkan angka 3, 5, 7
 
 ![8](https://github.com/user-attachments/assets/efa4a762-3de7-43b2-ba46-49042b514f2c)
 
-flowchart Menentukan Bilangan Terbesar dari N Buah Bilangan
+flowchart Menentukan Bilangan Terbesar dari n Buah Bilangan
 
-masukkan variable N
+masukkan variable n pada kode pemrograman
+
+![9 1](https://github.com/user-attachments/assets/6688db25-d6e8-4321-8930-96a86d6ca312)
+
+selanjutnya kita buat angka logika apakah n>5 jika tidak maka lakukan perulangan n<=5
+
+![9 2](https://github.com/user-attachments/assets/0d8900d7-4903-4416-b238-0da4099f1193)
+
+jika n>5 maka kita akhiri
+
+![9 3](https://github.com/user-attachments/assets/751ee7d4-ac64-4c8a-99b2-6166e1d51aba)
+
+contoh lengkap:
+
+![9](https://github.com/user-attachments/assets/be4b6dc8-98ba-4d9e-9421-b764162a0ba4)
